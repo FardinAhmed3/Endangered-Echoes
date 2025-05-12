@@ -1,0 +1,101 @@
+[
+    {
+        "title": "Panthera tigris",
+        "commonName": "Tiger",
+        "text": "Conservation Status: CR (Critically Endangered). Tigers are facing high risk of extinction in the wild due to habitat loss, poaching, and human-wildlife conflict. There are approximately 3,726 to 5,578 tigers remaining in the wild, with certain subspecies already extinct.",
+        "image": "assets/images/panthera_tigris.jpg",
+        "audio": "assets/sounds/tiger.mp3"
+    },
+    {
+        "title": "Gorilla beringei",
+        "commonName": "Eastern Gorilla",
+        "text": "Conservation Status: CR (Critically Endangered). The Eastern Gorilla has suffered significant population declines due to hunting, habitat loss, and civil unrest in its native range. Their population has declined by over a 70% in the past 20 years.",
+        "image": "assets/images/gorilla_beringei.jpg",
+        "audio": "assets/sounds/gorilla.mp3"
+    },
+    {
+        "title": "Diceros bicornis",
+        "commonName": "Black Rhinoceros",
+        "text": "Conservation Status: CR (Critically Endangered). The Black Rhinoceros has been heavily poached for its horn, which is used in traditional medicine in some cultures. There are fewer than 5,600 individuals remaining in the wild.",
+        "image": "assets/images/diceros_bicornis.jpg",
+        "audio": "assets/sounds/rhinoceros.mp3"
+    },
+    {
+        "title": "Phocoena sinus",
+        "commonName": "Vaquita",
+        "text": "Conservation Status: CR (Critically Endangered). The Vaquita is the most endangered marine mammal in the world. Found only in Mexico's Gulf of California, fewer than 10 individuals are believed to remain in the wild. Their decline is primarily due to entanglement in fishing gear.",
+        "image": "assets/images/phocoena_sinus.jpg",
+        "audio": "assets/sounds/phocoena_sinus.mp3"
+    },
+    {
+        "title": "Ailuropoda melanoleuca",
+        "commonName": "Giant Panda",
+        "text": "Conservation Status: Vulnerable (Recently upgraded from Endangered). The Giant Panda faced significant threats from habitat loss, but conservation efforts have helped stabilize populations. There are approximately 1,800 pandas in the wild.",
+        "image": "assets/images/ailuropoda_melanoleuca.jpg",
+        "audio": "assets/sounds/panda.mp3"
+    },
+    {
+        "title": "Panthera pardus orientalis",
+        "commonName": "Amur Leopard",
+        "text": "Conservation Status: CR (Critically Endangered). The Amur Leopard is one of the world's most endangered big cats with fewer than 100 individuals remaining in the wild. They face threats from poaching, habitat loss, and human conflict.",
+        "image": "assets/images/panthera_pardus_orientalis.jpg",
+        "audio": "assets/sounds/leopard.mp3"
+    },
+    {
+        "title": "Rhinoceros sondaicus",
+        "commonName": "Javan Rhinoceros",
+        "text": "Conservation Status: CR (Critically Endangered). The Javan Rhino is possibly the rarest large mammal on Earth, with only about 67 individuals surviving in Indonesia's Ujung Kulon National Park. They've been driven to near extinction by poaching and habitat loss.",
+        "image": "assets/images/rhinoceros_sondaicus.jpg",
+        "audio": "assets/sounds/rhinoceros.mp3"
+    },
+    {
+        "title": "Eretmochelys imbricata",
+        "commonName": "Hawksbill Turtle",
+        "text": "Conservation Status: CR (Critically Endangered). Hawksbill Turtles have been hunted extensively for their beautiful shell, used to make jewelry and ornaments. Their population has declined by over 80% in the last century, with fewer than 25,000 nesting females remaining globally.",
+        "image": "assets/images/eretmochelys_imbricata.jpg",
+        "audio": "assets/sounds/eretmochelys_imbricata.mp3"
+    },
+    {
+        "title": "Pseudoryx nghetinhensis",
+        "commonName": "Saola",
+        "text": "Conservation Status: CR (Critically Endangered). Often called the 'Asian unicorn', the Saola was only discovered in 1992 and is one of the rarest mammals on Earth. They face threats from hunting and habitat fragmentation, with fewer than 100 individuals believed to exist.",
+        "image": "assets/images/pseudoryx_nghetinhensis.jpg",
+        "audio": "assets/sounds/pseudoryx_nghetinhensis.mp3"
+    },
+    {
+        "title": "Neophocaena asiaeorientalis",
+        "commonName": "Yangtze Finless Porpoise",
+        "text": "Conservation Status: CR (Critically Endangered). The Yangtze Finless Porpoise is the only porpoise species adapted to freshwater. Population estimates suggest fewer than 1,000 individuals remain, threatened by pollution, dam construction, and illegal fishing practices.",
+        "image": "assets/images/neophocaena_asiaeorientalis.jpg",
+        "audio": "assets/sounds/neophocaena_asiaeorientalis.mp3"
+    },
+    {
+        "title": "Pongo pygmaeus",
+        "commonName": "Bornean Orangutan",
+        "text": "Conservation Status: CR (Critically Endangered). The Bornean Orangutan has experienced population declines of more than 50% over the past 60 years due to deforestation and hunting. Current estimates suggest around 104,700 individuals remain in the wild.",
+        "image": "assets/images/pongo_pygmaeus.jpg",
+        "audio": "assets/sounds/pongo_pygmaeus.mp3"
+    },
+    {
+        "title": "Elephas maximus sumatranus",
+        "commonName": "Sumatran Elephant",
+        "text": "Conservation Status: CR (Critically Endangered). The Sumatran Elephant population has declined by around 80% in the past generation, primarily due to habitat loss for palm oil plantations and human-elephant conflict. Fewer than 2,000 remain in the wild.",
+        "image": "assets/images/elephas_maximus_sumatranus.jpg",
+        "audio": "assets/sounds/elephant.mp3"
+    },
+    {
+        "title": "Rhincodon typus",
+        "commonName": "Whale Shark",
+        "text": "Conservation Status: (Endangered). Whale sharks (Rhincodon typus) are the largest shark, and indeed largest of any fishes alive today. They feed on plankton and travel large distances to find enough food to sustain their huge size, and to reproduce. Whale sharks are found in all the tropical oceans of the world. Their white spotted colouration makes these gentle giants easy to distinguish, and popular with snorkelers and divers at sites where they aggregate off the coast.",
+        "image": "assets/images/whale_shark.jpg",
+        "audio": "assets/sounds/whale_shark.mp3"
+    },
+    {
+        "title": "Acinonyx jubatus",
+        "commonName": "Cheetah",
+        "text": "Conservation Status: (Vulnerable). Cheetahs are big cats known for being the worlds fastest land mammal, reaching speeds of up to 60-70 miles per hour. They can be differentiated from other big cats by their narrow shoulder blades and long limbs, which they use to reach their top speeds. Cheetahs are also endowed with a long tail and specialized paw pads with semi-retractable claws, features which allow them to balance and gain traction when chasing prey. Interestingly, cheetahs are the only big cat that cannot roar; instead, they chirp, purr, and make other vocalizations.",
+        "image": "assets/images/cheetah.jpg",
+        "audio": "assets/sounds/cheetah.mp3"
+    }
+
+] 

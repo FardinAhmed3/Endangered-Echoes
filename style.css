@@ -1,0 +1,175 @@
+:root {
+    --primary-color: #007bff;
+    --danger-color: #dc3545;
+    --light-color: #f8f9fa;
+    --dark-color: #343a40;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    background-color: #f8f9fa;
+    color: #333;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}
+
+.app-title {
+    color: var(--primary-color);
+    font-weight: 700;
+}
+
+.canvas-container {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#animalCanvas {
+    width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.animal-info {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    height: auto;
+    margin-bottom: 20px;
+}
+
+#animalName {
+    color: var(--primary-color);
+    font-weight: 600;
+    border-bottom: 2px solid var(--primary-color);
+    padding-bottom: 10px;
+}
+
+.description {
+    line-height: 1.8;
+    text-align: justify;
+    margin-top: 15px;
+}
+
+.animal-details {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    height: auto;
+}
+
+.animal-details-card {
+    margin-top: 0;
+}
+
+.animal-details-card h4 {
+    color: var(--primary-color);
+    margin-bottom: 15px;
+    text-align: center;
+    border-bottom: 2px solid var(--primary-color);
+    padding-bottom: 10px;
+}
+
+.animal-details-card .list-group-item {
+    border-left: none;
+    border-right: none;
+    padding: 12px 15px;
+    transition: background-color 0.2s ease;
+}
+
+.animal-details-card .list-group-item:hover {
+    background-color: #f8f9fa;
+}
+
+.animal-details-card .list-group-item:first-child {
+    border-top: none;
+}
+
+.animal-details-card .list-group-item strong {
+    color: var(--primary-color);
+    display: inline-block;
+    min-width: 120px;
+}
+
+.controls {
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.controls button {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: all 0.2s ease;
+}
+
+.controls button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+#installApp {
+    transition: all 0.3s ease;
+}
+
+#installApp:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#offline-alert {
+    animation: fadeIn 0.5s;
+}
+
+@media (max-width: 768px) {
+    .row {
+        flex-direction: column;
+    }
+    
+    .col-md-6 {
+        width: 100%;
+    }
+    
+    .controls button {
+        margin-bottom: 10px;
+    }
+    
+    .animal-details {
+        margin-top: 0;
+    }
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.spinner {
+    width: 40px;
+    height: 40px;
+    border: 4px solid rgba(0, 123, 255, 0.3);
+    border-radius: 50%;
+    border-top-color: var(--primary-color);
+    animation: spin 1s ease-in-out infinite;
+    margin: 20px auto;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}

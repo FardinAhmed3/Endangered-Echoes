@@ -1,7 +1,7 @@
 let animals = [];
 let currentAnimalIndex = 0;
 let isOnline = navigator.onLine;
-const apiBaseUrl = 'http://localhost:8000/api';
+const apiBaseUrl = 'https://api.echoes.fardinahmed.com';
 
 const animalCanvas = document.getElementById('animalCanvas');
 const ctx = animalCanvas.getContext('2d');

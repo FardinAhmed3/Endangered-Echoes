@@ -96,6 +96,28 @@
         "text": "Conservation Status: (Vulnerable). Cheetahs are big cats known for being the worlds fastest land mammal, reaching speeds of up to 60-70 miles per hour. They can be differentiated from other big cats by their narrow shoulder blades and long limbs, which they use to reach their top speeds. Cheetahs are also endowed with a long tail and specialized paw pads with semi-retractable claws, features which allow them to balance and gain traction when chasing prey. Interestingly, cheetahs are the only big cat that cannot roar; instead, they chirp, purr, and make other vocalizations.",
         "image": "assets/images/cheetah.jpg",
         "audio": "assets/sounds/cheetah.mp3"
-    }
+    },
+    {
+    "title": "Panthera uncia",
+    "commonName": "Snow Leopard",
+    "text": "Conservation Status: Vulnerable. Snow leopards inhabit the high mountain ranges of Central and South Asia. They are threatened by poaching, loss of prey, and habitat fragmentation. Only an estimated 4,000 to 6,500 remain in the wild.",
+    "image": "assets/images/panthera_uncia.jpg",
+    "audio": "assets/sounds/snow_leopard.mp3"
+},
+{
+    "title": "Chelonia mydas",
+    "commonName": "Green Sea Turtle",
+    "text": "Conservation Status: Endangered. Green Sea Turtles are found in tropical and subtropical seas around the world. Their populations are declining due to illegal harvesting, bycatch in fishing gear, loss of nesting and feeding sites, and climate change.",
+    "image": "assets/images/chelonia_mydas.jpg",
+    "audio": "assets/sounds/green_sea_turtle.mp3"
+},
+{
+    "title": "Giraffa camelopardalis peralta",
+    "commonName": "West African Giraffe",
+    "text": "Conservation Status: Endangered. Once widespread across West Africa, the West African Giraffe now survives only in Niger. Conservation efforts have helped increase their numbers from just 50 individuals in the 1990s to over 600 today.",
+    "image": "assets/images/west_african_giraffe.jpg",
+    "audio": "assets/sounds/west_african_giraffe.mp3"
+}
+
 
 ] 
